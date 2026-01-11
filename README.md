@@ -6,7 +6,7 @@
 
 
 ## 🖼️ Project Preview
-![Project Preview](./preview.png)
+![Project Preview](./screen.png)
 *(A snapshot of the redesign concept submitted for the competition)*
 
 > **Competition Entry:** A modern, responsive redesign concept for the CMR College of Engineering & Technology official website. Built for the "Azura 2k24" frontend symposium.
